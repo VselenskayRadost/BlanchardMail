@@ -13,3 +13,5 @@
 ![painter-3](https://user-images.githubusercontent.com/106866157/207042882-68d50087-2aa2-4442-8aac-f32dc84e4028.jpg)
 ![painter-4](https://user-images.githubusercontent.com/106866157/207042888-6f816dea-a662-4fdc-99f4-7f0507f037c6.jpg)
 ![painter-5](https://user-images.githubusercontent.com/106866157/207042890-fbfe3488-a8fe-485a-9a87-2fc0e08eac38.jpg)
+![header-bg-600](https://user-images.githubusercontent.com/106866157/207588189-e0290d9c-2b00-4ba9-83c0-9e8193467478.jpg)
+![blanchard-600](https://user-images.githubusercontent.com/106866157/207588227-66155615-8db4-4a31-a3a3-0f4ebe7c7973.svg)

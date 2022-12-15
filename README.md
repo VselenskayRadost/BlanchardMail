@@ -15,3 +15,7 @@
 ![painter-5](https://user-images.githubusercontent.com/106866157/207042890-fbfe3488-a8fe-485a-9a87-2fc0e08eac38.jpg)
 ![header-bg-600](https://user-images.githubusercontent.com/106866157/207588189-e0290d9c-2b00-4ba9-83c0-9e8193467478.jpg)
 ![blanchard-600](https://user-images.githubusercontent.com/106866157/207588227-66155615-8db4-4a31-a3a3-0f4ebe7c7973.svg)
+![blanchard-logo](https://user-images.githubusercontent.com/106866157/207876258-2ad146e1-83fa-42a2-b59e-8b9307cd88cc.jpg)
+![foot-vk](https://user-images.githubusercontent.com/106866157/207876319-17f5968f-0e63-455e-84af-9d93bc5554f8.jpg)
+![foot-ig](https://user-images.githubusercontent.com/106866157/207876339-3b1d022a-d881-41ec-89aa-a2e370ccd490.jpg)
+![foot-fb](https://user-images.githubusercontent.com/106866157/207876360-5497c077-54c9-48cd-837a-b7ca7c1d28c3.jpg)

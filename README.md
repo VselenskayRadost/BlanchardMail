@@ -1,6 +1,4 @@
 
-
-![blanchard-logo](https://user-images.githubusercontent.com/106866157/207042845-3d4ca7d5-68a1-49af-baed-be98b350e1ed.svg)
 ![details-1](https://user-images.githubusercontent.com/106866157/207042853-9ff96925-0fa2-4f89-b5f0-e63b7d16354e.svg)
 ![details-2](https://user-images.githubusercontent.com/106866157/207042857-b5f52e94-236d-4a94-8696-9d0b801ac5be.svg)
 ![details-3](https://user-images.githubusercontent.com/106866157/207042861-c4bb5cbc-2603-4ed6-a4c1-109c10037b54.svg)
@@ -13,9 +11,7 @@
 ![painter-3](https://user-images.githubusercontent.com/106866157/207042882-68d50087-2aa2-4442-8aac-f32dc84e4028.jpg)
 ![painter-4](https://user-images.githubusercontent.com/106866157/207042888-6f816dea-a662-4fdc-99f4-7f0507f037c6.jpg)
 ![painter-5](https://user-images.githubusercontent.com/106866157/207042890-fbfe3488-a8fe-485a-9a87-2fc0e08eac38.jpg)
-![header-bg-600](https://user-images.githubusercontent.com/106866157/207588189-e0290d9c-2b00-4ba9-83c0-9e8193467478.jpg)
-![blanchard-600](https://user-images.githubusercontent.com/106866157/207588227-66155615-8db4-4a31-a3a3-0f4ebe7c7973.svg)
-![blanchard-logo](https://user-images.githubusercontent.com/106866157/207876258-2ad146e1-83fa-42a2-b59e-8b9307cd88cc.jpg)
 ![foot-vk](https://user-images.githubusercontent.com/106866157/207876319-17f5968f-0e63-455e-84af-9d93bc5554f8.jpg)
 ![foot-ig](https://user-images.githubusercontent.com/106866157/207876339-3b1d022a-d881-41ec-89aa-a2e370ccd490.jpg)
 ![foot-fb](https://user-images.githubusercontent.com/106866157/207876360-5497c077-54c9-48cd-837a-b7ca7c1d28c3.jpg)
+![blanchard-top](https://user-images.githubusercontent.com/106866157/208235492-4915d932-b63d-4252-b395-646a71fc43ae.jpg)
